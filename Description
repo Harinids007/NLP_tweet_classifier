@@ -1,0 +1,5 @@
+As I  started to learn NLP I took tweet classifier task ,here it will classify as offensive, hate or neither class .I used NLTK (Text Preprocessing),TF - IDFand LinearSVC model
+
+NLTK: Used to clean and normalize raw text by removing noise, stopwords, and applying stemming to improve model learning.
+TF-IDF Vectorization: Used to convert text into weighted numerical features that reflect word importance across the dataset.
+LinearSVC: Used because it efficiently handles high-dimensional sparse text data and provides strong classification performance for NLP tasks.
